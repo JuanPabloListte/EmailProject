@@ -40,11 +40,7 @@ INTERNAL_IPS = [
 TAILWIND_APP_NAME = 'theme'
 
 EMAIL_BACKEND ='django.core.mail.backends.console.EmailBackend'
-#EMAIL_HOST = 'smtp.gmail.com'
-#EMAIL_USE_TLS = True
-#EMAIL_PORT = 587
-#EMAIL_HOST_USER = 'juanpilistte@gmail.com'
-#EMAIL_HOST_PASSWORD = 'honlayslxgkjdcyo'
+
 
 NPM_BIN_PATH = r"C:\Program Files (x86)\nodejs\npm.cmd"
 
